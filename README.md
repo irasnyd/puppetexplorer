@@ -1,8 +1,9 @@
 Information
 ===========
 
-This is a Docker-ized version of the [Puppet
-Explorer](https://github.com/spotify/puppetexplorer) web application.
+This is a Docker-ized version of the
+[Puppet Explorer](https://github.com/spotify/puppetexplorer)
+web application.
 
 You can run it by using something like the following:
 
