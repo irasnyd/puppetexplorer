@@ -1,6 +1,8 @@
 Information
 ===========
 
+**OBSOLETE**: Please migrate to [vshn/puppet-puppetexplorer](https://hub.docker.com/r/vshn/puppet-puppetexplorer). This repository is archived.
+
 This is a Docker-ized version of the
 [Puppet Explorer](https://github.com/spotify/puppetexplorer)
 web application.
